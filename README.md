@@ -1,4 +1,4 @@
-## Part 2: Deep Neural Network for Image Classification
+## Deep Neural Network for Image Classification
 
 The objective is to build a deep network, and apply it to cat vs non-cat classification.
 
